@@ -1,2 +1,2 @@
 # NLP-disaster-tweets
-An NLP model to identify the disaster tweets and classify them
+Implmented a Logistic regression model to identify disaster tweets and classify them. Achieved an accuracy of 80%
